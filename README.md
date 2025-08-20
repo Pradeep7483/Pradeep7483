@@ -1,16 +1,33 @@
-## Hi there 👋
+ Hi there 👋, I'm Pradeep S A  
 
-<!--
-**Pradeep7483/Pradeep7483** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final-year Electronics & Communication Engineering Student at RRCE, Bangalore 
+💡 Passionate about Embedded Systems, VLSI Design, and Full Stack Development   
+🌟 I love building real-world solutions that are fast, clean, and user-focused  
+⚡ Open to opportunities in Software Development, Core ECE, and Government roles
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 🔧 Skills & Technologies  
+
+- Programming: C, Java, Python  
+- Hardware & Tools: Arduino, MATLAB, VHDL, Verilog  
+- Web Development: HTML, CSS, JavaScript  
+- VLSI/Design: Digital VLSI Design, CMOS, Logic Design 
+
+---
+🌱 Currently Learning
+-   Java Full Stack
+-   Embedded C and System Programming
+-   Modern VLSI
+-   Internet of Things (IoT)
+-   Wireless Communication (4G/5G/6G)
+---
+🌐 Connect with Me 
+📧 Email: pradeepajjanakatti@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/pradeep)
+  
+
+
+
+
+
