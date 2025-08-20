@@ -7,7 +7,7 @@
 
 ---
 
- 🔧 Skills & Technologies  
+ ## 🔧 Skills & Technologies   
 
 - Programming: C, Java, Python  
 - Hardware & Tools: Arduino, MATLAB, VHDL, Verilog  
@@ -15,14 +15,14 @@
 - VLSI/Design: Digital VLSI Design, CMOS, Logic Design 
 
 ---
-🌱 Currently Learning
+## 🌱 Currently Learning  
 -   Java Full Stack
 -   Embedded C and System Programming
 -   Modern VLSI
 -   Internet of Things (IoT)
 -   Wireless Communication (4G/5G/6G)
 ---
-🌐 Connect with Me 
+## 🌐 Connect with Me 
 
 📧 Email: pradeepajjanakatti@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/pradeep)
