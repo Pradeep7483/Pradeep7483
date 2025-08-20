@@ -25,7 +25,7 @@
 ## 🌐 Connect with Me 
 
 📧 Email: pradeepajjanakatti@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/pradeep)
+🔗 [LinkedIn]([https://www.linkedin.com/in/pradeep](https://www.linkedin.com/in/pradeep-ajjanakatti-8735812b4?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
   
 
 
