@@ -23,6 +23,7 @@
 -   Wireless Communication (4G/5G/6G)
 ---
 🌐 Connect with Me 
+
 📧 Email: pradeepajjanakatti@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/pradeep)
   
