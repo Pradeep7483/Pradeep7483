@@ -1,4 +1,4 @@
- Hi there 👋, I'm Pradeep S A  
+# **Hi there 👋, I'm Pradeep S A** 
 
 🎓 Final-year Electronics & Communication Engineering Student at RRCE, Bangalore.                              
 💡 Passionate about Embedded Systems, VLSI Design, and Full Stack Development.   
