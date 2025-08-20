@@ -1,9 +1,9 @@
  Hi there 👋, I'm Pradeep S A  
 
-🎓 Final-year Electronics & Communication Engineering Student at RRCE, Bangalore 
-💡 Passionate about Embedded Systems, VLSI Design, and Full Stack Development   
-🌟 I love building real-world solutions that are fast, clean, and user-focused  
-⚡ Open to opportunities in Software Development, Core ECE, and Government roles
+🎓 Final-year Electronics & Communication Engineering Student at RRCE, Bangalore.
+💡 Passionate about Embedded Systems, VLSI Design, and Full Stack Development.   
+🌟 I love building real-world solutions that are fast, clean, and user-focused.  
+⚡ Open to opportunities in Software Development, Core ECE, and Government roles.
 
 ---
 
